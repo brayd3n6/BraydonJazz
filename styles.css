@@ -1,6 +1,6 @@
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Georgia", serif;
   background-color: #8f2d56;
   color: #FFBC42;
 }
@@ -33,17 +33,18 @@ body {
   height: 100%;
   width: 30%;
   position: fixed;
-  z-index: 1;
   top: 0;
   right: 0;
+  color: #000000;
   background-color: #D81159;
+  font-family: Georgia, serif;
   overflow-x: hidden;
   padding-top: 20px;
 }
 
 .main {
   margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
+  font-size: 20px; /* Increased text to enable scrolling */
   padding: 0px 10px;
   background-color: #
 }
