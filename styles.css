@@ -31,7 +31,7 @@ body {
 
 .musictab {
   height: 100%;
-  width: 30%;
+  width: 350px;
   position: fixed;
   top: 0;
   right: 0;
@@ -43,8 +43,9 @@ body {
 }
 
 .main {
-  margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 20px; /* Increased text to enable scrolling */
+  margin-left: 160px;
+  margin-right: 350px;
+  font-size: 20px;
   padding: 0px 10px;
   background-color: #
 }
@@ -52,10 +53,3 @@ body {
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-  }
