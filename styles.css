@@ -3,7 +3,7 @@ body {
   font-family: "Georgia", serif;
   background-color: #8f2d56;
   color: #FFBC42;
-  width: 50%;
+  
 }
 
 .sidenav {
@@ -48,7 +48,7 @@ body {
   margin-right: 350px;
   font-size: 20px;
   padding: 0px 10px;
-  background-color: #
+  
 }
 
 @media screen and (max-height: 450px) {
